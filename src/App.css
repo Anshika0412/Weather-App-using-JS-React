@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIs4hwJGjDiE03rFyIfDMNr-yd-DabN0JXw&s");
+    background-size: cover;
+   
+
+}
+.container{
+    /* display: flex;
+    justify-content: center; */
+    margin:  20px 32%;
+    padding: 30px;
+    /* align-items: center; */
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    width: 400px;
+}
+button{
+    padding: 5px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+input{
+    width: 300px;
+    font-size: large;
+    border-radius: 10px;
+}
+.weather-card{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin: 10px;
+}
+.searchBar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 10px;
+    
+}
